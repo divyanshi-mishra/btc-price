@@ -11,5 +11,5 @@ Install Dependencies :
 ```
 Check bitcoin price:
 ```
-  node price.js
+  node app.js
 ```
